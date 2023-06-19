@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	--background:					url(https://media.discordapp.net/attachments/966774000254582804/1120191138448551956/TomodachiGamewallpaper.jpg?width=1202&height=676);	/* general background image				*/
+	--background:					url(https://media.discordapp.net/attachments/966774000254582804/1120196134405689475/Wonder_Egg_Priority_Wallpaper.jpg?width=1202&height=676);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
